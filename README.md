@@ -2,7 +2,7 @@
 
 
 ![DevSecOps](https://github.com/swapnilsalsankar/DevSecOps-Netflix-Clone/assets/114255901/7010effc-b4af-46b5-8c0c-58876aa6c1f0)
-![DevSecOps](DevSecOps-Netflix-Clone/public/assets/home.png)
+![DevSecOps](public/assets/home.png)
 ![DevSecOps](public/assets/Trivy.png)
 ![DevSecOps](public/assets/Prometheus.png)
 ![DevSecOps](public/assets/SonarQube.png)
